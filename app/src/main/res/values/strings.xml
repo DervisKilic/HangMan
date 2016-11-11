@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="play_game_activity">Hangman</string>
+    <string name="about_activity">About</string>
+    <string name="result_activity">Result</string>
+    <string name="action_info">Info</string>
+    <string name="action_play">Play</string>
+    <string name="hangman">Hangman</string>
+    <string name="om">Om</string>
+    <string name="gissa">Gissa!</string>
+    <string name="gissade_bokst_ver">Gissade bokstäver:</string>
+    <string name="tillbaka_till_huvudmenyn">Tillbaka till huvudmenyn</string>
+    <string name="programmerad_av_dervis_kilic">Programmerad av Dervis Kilic.</string>
+</resources>
+
